@@ -1,0 +1,1 @@
+ColorMuse is a color inspiration tool that generates aesthetic color palettes for designers and developers.
